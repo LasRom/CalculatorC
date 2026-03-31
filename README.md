@@ -4,8 +4,8 @@
 
 🛠 Технологический стек
  - Язык: C (*Visual Studio Code*)
- - Графическая библиотека: [EasyX Graphics Library](https://easyx.cn/)
- - ОС: Windows
+ - Графическая библиотека: *[EasyX Graphics Library](https://easyx.cn/)*
+ - ОС: *Windows*
 
  📂 Структура проекта  
     main.c — основной цикл программы, обработка сообщений и логика вычислений.  
